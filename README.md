@@ -12,4 +12,4 @@ Current possition of sonars(#):
    /#   #\
    ```
    
-   The angle between obliquely sonars is 45°.
+   The angle between obliquely sonars is 90°.
